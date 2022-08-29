@@ -10,3 +10,5 @@
 * `git checkout` // manipular as linhas do tempo
 * `git merge` // vai unir as linhas do tempo
 * `git push`// envia as alterações locais para o repositorio remoto
+* `git clone` // clona um repositorio | projeto
+* `git pull`// puxa o repositorio remoto
