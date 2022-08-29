@@ -1,3 +1,5 @@
+[Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito](https://www.youtube.com/watch?v=2alg7MQ6_sI)
+
 * `git init` // inicia o Projeto Git
 * `git add` // adiciona ou atualiza mudanças para irem na linha do tempo
 * `git commit` // adiciona um ponto na linha do tempo
